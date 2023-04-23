@@ -1,0 +1,37 @@
+.container{
+	display: flex;
+	flex-wrap: wrap ;
+	justify-content: center;
+
+
+}
+
+img{
+
+	width: 400px;
+	height: 300px;
+	margin: 10px;
+	padding:5px 20px 5px 10px;
+	transition: all 5s;
+}
+
+img:hover{
+	transform: scale(1.1);
+	animation-direction: alternate;
+
+}
+
+h1{
+	font-family: fantasy;
+	font-size: 30px;
+	border-color: pink;
+	
+
+}
+
+p{
+
+	line-height: 5.0;
+	outline-color: darkred;
+	border-color: red;
+}

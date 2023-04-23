@@ -1,0 +1,27 @@
+h1{
+	cursor: pointer;
+	color: #AA6B39;
+	border:5px mediumpurple;
+}
+
+* {
+	text-align: center;
+}
+
+p{
+	font-family: monospace;
+	font-weight: bold;
+	font-display: !important;
+	transform: capatilize;
+
+
+}
+
+
+span{
+	font-size: 10rem;
+}
+
+a{
+	text-decoration: underline;
+}
